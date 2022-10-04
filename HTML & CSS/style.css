@@ -1,0 +1,86 @@
+body{
+	background-color: #1D1D1D;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+	font-size: 25px;
+}
+
+header{
+	background-color: #eab676;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+
+header{
+	color: white;
+}
+
+h2{
+	color: white;
+	text-decoration: underline;
+	text-decoration: underline;
+	padding-top: 30px;
+	font-style: normal;
+	font-variant: normal;
+	font-family:Franklin Gothic Medium,Franklin Gothic,ITC Franklin Gothic,Arial,sans-serif; ;
+	text-align: center;
+}
+
+.st{
+	font-family: Rockwell Extra Bold,Rockwell Bold,monospace; 
+	font-size: 30px;
+	font-style: normal;
+	font-variant: normal;
+	color: #61D767;
+	text-align: center;
+}
+
+.si{
+	margin: 70px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	background-color: #474C47;
+	position: relative;
+	left: 100px;
+}
+
+.sp{
+	background: white;
+	padding: 2em;
+	box-shadow: 20px 20px;
+	margin: 70px;
+	position: relative;
+	font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace; 
+}
+
+.nh{
+	font-family: Rockwell Extra Bold,Rockwell Bold,monospace; 
+	font-size: 30px;
+	font-style: normal;
+	font-variant: normal;
+	color: #61D767;
+	text-align: center;
+}
+
+.nt{
+	margin: 70px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	background-color: #474C47;
+	position: relative;
+	left: 180px;
+}
+
+.np{
+	background: white;
+	padding: 2em;
+	box-shadow: 20px 20px;
+	margin: 70px;
+	position: relative;
+	font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace; 
+}
+
